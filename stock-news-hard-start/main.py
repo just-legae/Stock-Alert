@@ -57,6 +57,6 @@ if diff_percentage > 4:
         message = client.messages.create(
             from_ = 'whatsapp:+14155238886',
             body = i,
-            to = 'whatsapp:+27715603202'
+            to = 'whatsapp:+27710000000'
         )
         print(i)
