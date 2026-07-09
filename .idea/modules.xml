@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../firstPyCert/.idea/firstPyCert.iml" filepath="$PROJECT_DIR$/../firstPyCert/.idea/firstPyCert.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../rain_alert/.idea/rain_alert.iml" filepath="$PROJECT_DIR$/../rain_alert/.idea/rain_alert.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../randomBullGo!/.idea/randomBullGo!.iml" filepath="$PROJECT_DIR$/../randomBullGo!/.idea/randomBullGo!.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/stock-news-hard-start.iml" filepath="$PROJECT_DIR$/.idea/stock-news-hard-start.iml" />
+    </modules>
+  </component>
+</project>
